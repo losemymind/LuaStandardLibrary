@@ -1,0 +1,3 @@
+[submodule "lua-stdlib"]
+	path = lua-stdlib
+	url = https://github.com/lua-stdlib/lua-stdlib.git
