@@ -1,3 +1,4 @@
+-- https://github.com/LuaDist/classlib/blob/master/classlib.lua
 -- classlib.lua 2.03
 
 -- PRIVATE
